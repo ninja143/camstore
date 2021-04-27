@@ -1,0 +1,2 @@
+# camstore
+Prepared for Crownstack
